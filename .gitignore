@@ -64,3 +64,7 @@ yarn-error.log
 
 # testing
 /coverage
+
+#production
+node_modules
+__tests__
